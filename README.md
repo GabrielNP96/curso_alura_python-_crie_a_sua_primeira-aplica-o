@@ -1,3 +1,3 @@
 #Sabor Express
 
-- É um projeto da alura para apresetar o básico de python.
+- É um projeto da alura para apresentar o básico de python.
